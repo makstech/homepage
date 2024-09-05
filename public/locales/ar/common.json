@@ -226,6 +226,10 @@
         "leech": "القرناء",
         "seed": "البذور"
     },
+    "develancacheui": {
+        "cachehitbytes": "Cache Hit Bytes",
+        "cachemissbytes": "Cache Miss Bytes"
+    },
     "downloadstation": {
         "download": "التنزيل",
         "upload": "التحميل",
@@ -318,6 +322,19 @@
         "minutes": "{{number}}د",
         "seconds": "{{number}}ث",
         "ago": "منذ {{value}}"
+    },
+    "technitium": {
+        "totalQueries": "الاستعلامات",
+        "totalNoError": "Success",
+        "totalServerFailure": "Failures",
+        "totalNxDomain": "NX Domains",
+        "totalRefused": "Refused",
+        "totalAuthoritative": "Authoritative",
+        "totalRecursive": "Recursive",
+        "totalCached": "Cached",
+        "totalBlocked": "محظور",
+        "totalDropped": "Dropped",
+        "totalClients": "العملاء"
     },
     "tdarr": {
         "queue": "إنتظار",
@@ -827,7 +844,11 @@
     },
     "romm": {
         "platforms": "المِنصات",
-        "totalRoms": "مجموع الروومات"
+        "totalRoms": "Games",
+        "saves": "Saves",
+        "states": "States",
+        "screenshots": "Screenshots",
+        "totalfilesize": "Total Size"
     },
     "netdata": {
         "warnings": "تحذيرات",
@@ -905,5 +926,18 @@
         "cameras": "Cameras",
         "uptime": "مدة التشغيل",
         "version": "الإصدار"
+    },
+    "linkwarden": {
+        "links": "Links",
+        "collections": "Collections",
+        "tags": "التصنيفات"
+    },
+    "zabbix": {
+        "unclassified": "Not classified",
+        "information": "معلومات",
+        "warning": "Warning",
+        "average": "Average",
+        "high": "High",
+        "disaster": "Disaster"
     }
 }
